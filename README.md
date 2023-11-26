@@ -7,7 +7,7 @@ Software Engineer
 I am the founder and CTO of Fava Technology, investing the bulk of my time in meetings, coding endeavors, and meticulously reviewing code.
 
 * 🌍  I'm based in Addis Ababa
-* 🖥️  See my portfolio at [My Website](http://kaleabfekadu.github.io/KaleabFekadu.et/)
+* 🖥️  See my portfolio at [My Website](https://kaleabfekadu.vercel.app/)
 * ✉️  You can contact me at [kaleabfekadu2021@gmail.com](mailto:kaleabfekadu2021@gmail.com)
 * 🚀  I'm currently working on [Fava Technology](http://favatechnology.vercel.app/)
 * 🧠  I'm learning YOLO (You Only Look Once), NumPy, TensorFlow, Docker
