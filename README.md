@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/eyesonethiopia.appspot.com/o/efvudwjgyrwa1.gif?alt=media&token=98b9518b-c7b3-4f79-b53a-4637bdc213d7)(https://kaleabfekadu.vercel.app/)]
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/eyesonethiopia.appspot.com/o/efvudwjgyrwa1.gif?alt=media&token=98b9518b-c7b3-4f79-b53a-4637bdc213d7)](https://kaleabfekadu.vercel.app/)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kaleab Fekadu
@@ -10,7 +10,7 @@ Software Engineer
 I am the founder and CTO of Fava Technology, investing the bulk of my time in meetings, coding endeavors, and meticulously reviewing code.
 
 * 🌍  I'm based in Addis Ababa
-* 🖥️  See my portfolio at [My Website](https://kaleabfekadu.vercel.app/)
+* 🖥️  See my portfolio at [Portfolio Website](https://kaleabfekadu.vercel.app/)
 * ✉️  You can contact me at [kaleabfekadu2021@gmail.com](mailto:kaleabfekadu2021@gmail.com)
 * 🚀  I'm currently working on [Fava Technology](http://favatechnology.vercel.app/)
 * 🧠  I'm learning YOLO (You Only Look Once), NumPy, TensorFlow, Docker
