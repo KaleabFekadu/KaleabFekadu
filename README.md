@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ----------------
 
-I am the founder and CTO of Fava Technology, investing the bulk of my time in meetings, coding endeavors, and meticulously reviewing code.
+I am the CTO of Fava Technology, investing the bulk of my time in meetings, coding endeavors, and meticulously reviewing code.
 
 * 🌍  I'm based in Addis Ababa
 * 🖥️  See my portfolio at [Portfolio Website](https://kaleabfekadu.favatechnology.com)
